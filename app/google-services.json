@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "874319908249",
+    "firebase_url": "https://deletethisafteruse-11da6.firebaseio.com",
+    "project_id": "deletethisafteruse-11da6",
+    "storage_bucket": "deletethisafteruse-11da6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874319908249:android:2df03668f8c3fe7a",
+        "android_client_info": {
+          "package_name": "com.example.abc.image_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874319908249-1qhrgdffj46paq93pb8v3v3pa53q5j9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ2BV2MlqJMrlOJI501TK3grQEtitNJdo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
